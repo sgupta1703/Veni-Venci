@@ -48,6 +48,10 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+
+imgur : https://imgur.com/a/sjJ1Ltm
+
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -55,11 +59,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Building the app involved challenges like managing API data asynchronously, filtering cats based on temperament, and ensuring smooth dynamic updates.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Sarthak Gupta]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
